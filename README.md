@@ -18,8 +18,11 @@
 - Login
 <img src= "preview/login.jpeg" width=20% height=20%>
 
-- Post, Komentar, Suka
+- Post
 <img src= "preview/post.jpeg" width=20% height=20%>
+
+- Komentar & Suka
+<img src= "preview/like.jpeg" width=20% height=20%>
 
 - Update Profil
 <img src= "preview/user.jpeg" width=20% height=20%>
